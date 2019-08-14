@@ -1,0 +1,1 @@
+[https://www.pika.dev/blog/pika-web-a-future-without-webpack/]
